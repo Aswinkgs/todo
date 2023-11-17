@@ -1,0 +1,16 @@
+.todo{
+    background-color: rgb(93, 124, 167);
+    height: 100vh;
+}
+.box{
+    width: 50%;
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    overflow: scroll;
+
+}
+i{
+    cursor: pointer;
+}
